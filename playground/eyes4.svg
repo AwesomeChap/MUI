@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="89.3939mm" height="25.5364mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 974 278"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:1.84426}
+    .str1 {stroke:black;stroke-width:2.17869}
+    .fil4 {fill:none}
+    .fil3 {fill:black}
+    .fil0 {fill:#B3B3B3}
+    .fil1 {fill:white}
+    .fil5 {fill:url(#right-eye-gradient)}
+    .fil2 {fill:url(#left-eye-gradient)}
+   ]]>
+  </style>
+    <clipPath id="id3">
+     <path d="M80 100c1,-5 48,141 48,141 88,1 174,25 244,36l8 -26c-97,-53 -209,-143 -300,-151z"/>
+    </clipPath>
+    <clipPath id="id4">
+     <path d="M894 96c-1,-4 -48,142 -48,142 -88,0 -174,24 -244,36l-8 -26c97,-54 208,-143 300,-152z"/>
+    </clipPath>
+  <linearGradient id="right-eye-gradient" gradientUnits="userSpaceOnUse" x1="760.377" y1="137.135" x2="678.6" y2="248.896">
+   <stop offset="0" style="stop-opacity:1; stop-color:#999999"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#E6E6E6"/>
+  </linearGradient>
+  <linearGradient id="left-eye-gradient" gradientUnits="userSpaceOnUse" xlink:href="#right-eye-gradient" x1="213.431" y1="140.472" x2="295.208" y2="252.232">
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <g id="_2268941328896">
+   <path class="fil0 str0" d="M440 224l-2 38c-117,3 -260,-201 -436,-158l47 -100c177,27 332,247 391,220z"/>
+   <!-- <path class="fil1" d="M80 100c1,-5 48,141 48,141 88,1 174,25 244,36l8 -26c-97,-53 -209,-143 -300,-151z"/> -->
+   <g style="clip-path:url(#id3)">
+    <g>
+     <g>
+      <path id="1" class="fil2 str1" d="M273 133c41,12 66,50 56,85 -10,35 -52,53 -93,41 -41,-12 -66,-49 -56,-84 10,-35 52,-54 93,-42z"/>
+      <ellipse class="fil3 str1" transform="matrix(0.368058 0.106855 -0.0890381 0.30669 254.32 196.352)" rx="59" ry="60"/>
+      <g>
+       <path class="fil1" d="M304 184c-5,-7 -26,-17 -47,-17 2,-6 4,-5 -4,-5 -23,0 -37,11 -41,29 -2,9 -2,7 6,5 -5,13 -5,54 -28,10 -21,-66 74,-86 116,-40 10,11 19,53 -2,18z"/>
+       <path class="fil1" d="M260 236c15,-2 28,-10 41,-22 5,-5 5,-1 7,6 9,28 -28,42 -51,23 -8,-7 -5,-5 3,-7z"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <path class="fil4 str1" d="M80 100c1,-5 48,141 48,141 88,1 174,25 244,36l8 -26c-97,-53 -209,-143 -300,-151z"/>
+  </g>
+  <g id="_2268941338880">
+   <path class="fil0 str0" d="M534 220l2 39c117,3 260,-201 436,-159l-48 -99c-177,26 -331,247 -390,219z"/>
+   <!-- <path class="fil1" d="M894 96c-1,-4 -48,142 -48,142 -88,0 -174,24 -244,36l-8 -26c97,-54 208,-143 300,-152z"/> -->
+   <g style="clip-path:url(#id4)">
+    <g>
+     <g>
+      <path id="1" class="fil5 str1" d="M701 130c-41,12 -66,50 -56,85 10,34 52,53 93,41 41,-12 66,-50 56,-85 -10,-34 -52,-53 -93,-41z"/>
+      <ellipse class="fil3 str1" transform="matrix(-0.368058 0.106855 0.0890381 0.30669 719.488 193.015)" rx="59" ry="60"/>
+      <g>
+       <path class="fil1" d="M670 181c4,-8 26,-18 47,-17 -3,-6 -4,-6 4,-6 22,1 37,12 41,30 2,8 2,7 -6,5 5,13 5,54 28,10 20,-66 -74,-87 -116,-41 -10,11 -19,54 2,19z"/>
+       <path class="fil1" d="M714 233c-15,-3 -29,-10 -41,-22 -5,-5 -6,-1 -8,6 -8,28 29,42 52,23 8,-7 4,-6 -3,-7z"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <path class="fil4 str1" d="M894 96c-1,-4 -48,142 -48,142 -88,0 -174,24 -244,36l-8 -26c97,-54 208,-143 300,-152z"/>
+  </g>
+ </g>
+</svg>

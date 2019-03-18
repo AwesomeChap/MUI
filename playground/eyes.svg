@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="89.6485mm" height="110.07mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 985 1209"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:black;stroke-width:1.85972}
+    .str0 {stroke:black;stroke-width:2.19695}
+    .str2 {stroke:black;stroke-width:0.83704}
+    .fil3 {fill:none}
+    .fil2 {fill:black}
+    .fil4 {fill:#B3B3B3}
+    .fil0 {fill:white}
+    .fil1 {fill:url(#id10)}
+    .fil7 {fill:url(#right-eye)}
+    .fil6 {fill:url(#left-eye)}
+    .fil9 {fill:url(#id13)}
+    .fil5 {fill:url(#id14)}
+    .fil8 {fill:url(#id15)}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <path d="M893 731c0,-5 -45,130 -45,130 -88,1 -169,6 -240,17l-8 -26c102,-43 201,-113 293,-121z"/>
+    </clipPath>
+    <clipPath id="id1">
+     <path d="M92 731c0,-5 45,130 45,130 88,1 169,6 240,17l8 -26c-102,-43 -201,-113 -293,-121z"/>
+    </clipPath>
+     <clipPath id="id2">
+      <path d="M82 1029c1,-4 49,142 49,142 88,1 175,25 246,37l7 -26c-98,-54 -210,-144 -302,-153z"/>
+     </clipPath>
+     <clipPath id="id3">
+      <path d="M903 1026c-1,-5 -49,142 -49,142 -88,1 -175,25 -246,36l-8 -26c98,-53 210,-144 303,-152z"/>
+     </clipPath>
+     <clipPath id="id4">
+      <path d="M893 381c0,-5 -45,130 -45,130 -88,1 -169,6 -240,17l-8 -26c102,-43 201,-113 293,-121z"/>
+     </clipPath>
+    <clipPath id="id5">
+     <path d="M92 381c0,-5 45,130 45,130 88,1 169,6 240,17l8 -26c-102,-43 -201,-113 -293,-121z"/>
+    </clipPath>
+     <clipPath id="id6">
+      <path d="M916 149c-1,-5 -120,71 -120,71 -88,1 -98,-16 -168,-4 76,-22 117,-4 163,-14 45,-10 74,-48 125,-53z"/>
+     </clipPath>
+     <clipPath id="id7">
+      <path d="M916 149c-1,-5 -120,71 -120,71 -88,1 -98,-16 -168,-4 76,-22 117,-4 163,-14 45,-10 74,-48 125,-53z"/>
+     </clipPath>
+     <clipPath id="id8">
+      <path d="M69 149c1,-5 119,71 119,71 89,1 98,-16 169,-4 -76,-22 -117,-4 -163,-14 -45,-10 -74,-48 -125,-53z"/>
+     </clipPath>
+     <clipPath id="id9">
+      <path d="M69 149c1,-5 119,71 119,71 89,1 98,-16 169,-4 -76,-22 -117,-4 -163,-14 -45,-10 -74,-48 -125,-53z"/>
+     </clipPath>
+  <linearGradient id="id10" gradientUnits="userSpaceOnUse" x1="768.059" y1="740.608" x2="685.596" y2="853.305">
+   <stop offset="0" style="stop-opacity:1; stop-color:#999999"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#E6E6E6"/>
+  </linearGradient>
+  <linearGradient id="right-eye" gradientUnits="userSpaceOnUse" xlink:href="#id10" x1="768.15" y1="1066.87" x2="685.687" y2="1179.57">
+  </linearGradient>
+  <linearGradient id="left-eye" gradientUnits="userSpaceOnUse" xlink:href="#id10" x1="216.619" y1="1070.23" x2="299.081" y2="1182.93">
+  </linearGradient>
+  <linearGradient id="id13" gradientUnits="userSpaceOnUse" xlink:href="#id10" x1="216.71" y1="390.846" x2="299.174" y2="503.543">
+  </linearGradient>
+  <linearGradient id="id14" gradientUnits="userSpaceOnUse" xlink:href="#id10" x1="216.71" y1="740.844" x2="299.174" y2="853.541">
+  </linearGradient>
+  <linearGradient id="id15" gradientUnits="userSpaceOnUse" xlink:href="#id10" x1="768.059" y1="390.846" x2="685.594" y2="503.543">
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <g id="e4">
+   <g>
+    <path class="fil4 str1" d="M445 1154l-2 39c-118,3 -263,-203 -440,-160l48 -100c179,27 334,249 394,221z"/>
+    <path class="fil0" d="M82 1029c1,-4 49,142 49,142 88,1 175,25 246,37l7 -26c-98,-54 -210,-144 -302,-153z"/>
+    <g style="clip-path:url(#id2)">
+     <g>
+      <g>
+       <path id="1" class="fil6 str0" d="M276 1063c42,12 67,50 57,85 -10,35 -52,54 -94,42 -41,-12 -66,-50 -56,-85 10,-35 52,-54 93,-42z"/>
+       <ellipse class="fil2 str0" transform="matrix(0.368058 0.106855 -0.0890381 0.30669 257.851 1126.58)" rx="59" ry="60"/>
+       <g>
+        <path class="fil0" d="M308 1115c-5,-8 -26,-18 -48,-18 3,-6 4,-5 -4,-5 -22,0 -37,11 -41,30 -2,8 -2,6 6,4 -5,14 -5,55 -28,10 -21,-66 75,-87 117,-40 10,11 19,53 -2,19z"/>
+        <path class="fil0" d="M263 1167c15,-3 29,-10 42,-22 5,-5 5,-2 7,5 9,29 -28,43 -51,24 -9,-7 -5,-6 2,-7z"/>
+       </g>
+      </g>
+     </g>
+    </g>
+    <path class="fil3 str0" d="M82 1029c1,-4 49,142 49,142 88,1 175,25 246,37l7 -26c-98,-54 -210,-144 -302,-153z"/>
+   </g>
+   <g>
+    <path class="fil4 str1" d="M540 1151l2 39c118,3 262,-203 440,-160l-48 -100c-179,26 -335,249 -394,221z"/>
+    <path class="fil0" d="M903 1026c-1,-5 -49,142 -49,142 -88,1 -175,25 -246,36l-8 -26c98,-53 210,-144 303,-152z"/>
+    <g style="clip-path:url(#id3)">
+     <g>
+      <g>
+       <path id="1" class="fil7 str0" d="M708 1060c-41,12 -66,50 -56,85 10,35 52,54 93,42 42,-12 67,-50 57,-86 -10,-35 -52,-53 -94,-41z"/>
+       <ellipse class="fil2 str0" transform="matrix(-0.368058 0.106855 0.0890381 0.30669 726.918 1123.22)" rx="59" ry="60"/>
+       <g>
+        <path class="fil0" d="M677 1111c5,-7 26,-18 47,-17 -2,-6 -3,-6 5,-6 22,1 37,12 41,30 2,9 2,7 -7,5 5,13 6,55 29,10 21,-66 -75,-87 -117,-41 -10,11 -19,54 2,19z"/>
+        <path class="fil0" d="M721 1164c-14,-3 -28,-10 -41,-23 -5,-5 -6,-1 -8,6 -8,28 29,42 52,23 9,-7 5,-5 -3,-6z"/>
+       </g>
+      </g>
+     </g>
+    </g>
+    <path class="fil3 str0" d="M903 1026c-1,-5 -49,142 -49,142 -88,1 -175,25 -246,36l-8 -26c98,-53 210,-144 303,-152z"/>
+   </g>
+  </g>
+  <g id="e3">
+   <path class="fil0" d="M893 731c0,-5 -45,130 -45,130 -88,1 -169,6 -240,17l-8 -26c102,-43 201,-113 293,-121z"/>
+   <g style="clip-path:url(#id0)">
+    <g>
+     <g>
+      <path id="1" class="fil1 str0" d="M708 733c-41,13 -66,51 -56,86 10,35 52,53 93,41 42,-12 67,-50 57,-85 -10,-35 -52,-54 -94,-42z"/>
+      <ellipse class="fil2 str0" transform="matrix(-0.368058 0.106855 0.0890381 0.30669 726.827 796.956)" rx="59" ry="60"/>
+      <g>
+       <path class="fil0" d="M677 785c4,-8 26,-18 47,-18 -2,-5 -4,-5 4,-5 23,1 37,12 42,30 2,8 2,7 -7,5 5,13 5,54 29,10 20,-67 -75,-87 -118,-41 -9,11 -18,54 3,19z"/>
+       <path class="fil0" d="M721 837c-15,-2 -28,-10 -41,-22 -6,-5 -6,-1 -8,6 -8,28 29,42 52,23 9,-7 5,-5 -3,-7z"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <path class="fil3 str0" d="M893 731c0,-5 -45,130 -45,130 -88,1 -169,6 -240,17l-8 -26c102,-43 201,-113 293,-121z"/>
+   <path class="fil4 str1" d="M445 825l-2 39c-118,3 -260,-170 -437,-127l48 -100c179,26 331,216 391,188z"/>
+   <path class="fil4 str1" d="M540 825l2 38c118,4 259,-170 437,-127l-48 -100c-179,27 -332,216 -391,189z"/>
+   <path class="fil0" d="M92 731c0,-5 45,130 45,130 88,1 169,6 240,17l8 -26c-102,-43 -201,-113 -293,-121z"/>
+   <g style="clip-path:url(#id1)">
+    <g>
+     <g>
+      <path id="1" class="fil5 str0" d="M276 734c42,12 67,50 57,85 -10,35 -52,54 -93,42 -42,-12 -67,-51 -57,-86 10,-35 52,-53 93,-41z"/>
+      <ellipse class="fil2 str0" transform="matrix(0.368058 0.106855 -0.0890381 0.30669 257.942 797.192)" rx="59" ry="60"/>
+      <g>
+       <path class="fil0" d="M308 785c-5,-8 -26,-18 -47,-17 2,-6 3,-6 -5,-6 -22,1 -37,12 -41,30 -2,9 -2,7 7,5 -6,13 -6,55 -29,10 -21,-66 75,-87 117,-41 10,11 19,54 -2,19z"/>
+       <path class="fil0" d="M264 838c14,-3 28,-11 41,-23 5,-5 6,-1 8,6 8,28 -29,42 -52,23 -9,-7 -5,-5 3,-6z"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <path class="fil3 str0" d="M92 731c0,-5 45,130 45,130 88,1 169,6 240,17l8 -26c-102,-43 -201,-113 -293,-121z"/>
+  </g>
+  <g id="e2">
+   <g>
+    <path class="fil2 str1" d="M540 475l2 39c118,3 259,-170 437,-127l-48 -100c-179,26 -332,216 -391,188z"/>
+    <path class="fil0" d="M893 381c0,-5 -45,130 -45,130 -88,1 -169,6 -240,17l-8 -26c102,-43 201,-113 293,-121z"/>
+    <g style="clip-path:url(#id4)">
+     <g>
+      <path id="1" class="fil8 str0" d="M708 384c-41,12 -66,50 -56,85 10,35 52,54 93,42 42,-12 67,-51 57,-86 -10,-35 -52,-53 -94,-41z"/>
+      <ellipse class="fil2 str0" transform="matrix(-0.368058 0.106855 0.0890381 0.30669 726.827 447.194)" rx="59" ry="60"/>
+     </g>
+    </g>
+    <path class="fil3 str0" d="M893 381c0,-5 -45,130 -45,130 -88,1 -169,6 -240,17l-8 -26c102,-43 201,-113 293,-121z"/>
+   </g>
+   <path class="fil2 str1" d="M445 475l-2 39c-118,3 -260,-170 -437,-127l48 -100c179,26 331,216 391,188z"/>
+   <path class="fil0" d="M92 381c0,-5 45,130 45,130 88,1 169,6 240,17l8 -26c-102,-43 -201,-113 -293,-121z"/>
+   <g style="clip-path:url(#id5)">
+    <g>
+     <path id="1" class="fil9 str0" d="M276 384c42,12 67,50 57,85 -10,35 -52,54 -93,42 -42,-12 -67,-51 -57,-86 10,-35 52,-53 93,-41z"/>
+     <ellipse class="fil2 str0" transform="matrix(0.368058 0.106855 -0.0890381 0.30669 257.942 447.194)" rx="59" ry="60"/>
+    </g>
+   </g>
+   <path class="fil3 str0" d="M92 381c0,-5 45,130 45,130 88,1 169,6 240,17l8 -26c-102,-43 -201,-113 -293,-121z"/>
+  </g>
+  <g id="e1">
+   <g>
+    <path class="fil2 str0" d="M544 190l2 38c112,3 253,-170 437,-127l-48 -100c-179,27 -332,216 -391,189z"/>
+    <path class="fil2" d="M916 149c-1,-5 -120,71 -120,71 -88,1 -98,-16 -168,-4 76,-22 117,-4 163,-14 45,-10 74,-48 125,-53z"/>
+    <g style="clip-path:url(#id6)">
+    </g>
+    <path id="1" class="fil3 str0" d="M916 149c-1,-5 -120,71 -120,71 -88,1 -98,-16 -168,-4 76,-22 117,-4 163,-14 45,-10 74,-48 125,-53z"/>
+    <g style="clip-path:url(#id7)">
+     <path id="2" class="fil3 str2" d="M628 149l288 71m0 -71l-288 71"/>
+    </g>
+   </g>
+   <g>
+    <path class="fil2 str0" d="M441 190l-2 38c-113,3 -253,-170 -437,-127l48 -100c179,27 331,216 391,189z"/>
+    <path class="fil2" d="M69 149c1,-5 119,71 119,71 89,1 98,-16 169,-4 -76,-22 -117,-4 -163,-14 -45,-10 -74,-48 -125,-53z"/>
+    <g style="clip-path:url(#id8)">
+    </g>
+    <path id="1" class="fil3 str0" d="M69 149c1,-5 119,71 119,71 89,1 98,-16 169,-4 -76,-22 -117,-4 -163,-14 -45,-10 -74,-48 -125,-53z"/>
+    <g style="clip-path:url(#id9)">
+     <path id="2" class="fil3 str2" d="M69 149l288 71m0 -71l-288 71"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
